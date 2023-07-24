@@ -8,6 +8,8 @@
 
 ## :snake: I'm EATing your contribution!!!
 
+> Welcome to my blog at https://blog.jiuge.host!
+
 <!--
 **Destiny-End/Destiny-End** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
