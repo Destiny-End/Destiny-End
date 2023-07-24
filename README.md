@@ -6,7 +6,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## :snack I'm EATing your contribution!!!
+## :snake: I'm EATing your contribution!!!
 
 <!--
 **Destiny-End/Destiny-End** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
